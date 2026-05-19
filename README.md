@@ -1,2 +1,2 @@
-# fluxocaixa_estoque
-app_fluxocaixa
+# fluxo-caixa
+Fluxo_caixa
